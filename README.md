@@ -25,4 +25,6 @@ import java.awt.event.*;
 - **Tree Traversal:** Inorder, Preorder, Postorder.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/prog-cy/BST-Visualizer/blob/master/screen1.png)
+
+![App Screenshot](https://github.com/prog-cy/BST-Visualizer/blob/master/screen2.png)
