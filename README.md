@@ -19,8 +19,8 @@ import java.awt.event.*;
 ```
 ## Features
 
-- Adding Node
-- Deleting Node
+- Add Node
+- Delete Node
 - Calculates Height automatically
 - **Tree Traversal:** Inorder, Preorder, Postorder.
 ## Screenshots
